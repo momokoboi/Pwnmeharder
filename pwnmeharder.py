@@ -7,8 +7,8 @@ import console_utilities
 from console_utilities import colors
 import input_processor
 
-# ----------PRE-REQUISITS-----------#
 
+# ----------PRE-REQUISITS-----------#
 
 
 # choice cleaning function
