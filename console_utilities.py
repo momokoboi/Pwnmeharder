@@ -13,6 +13,7 @@ def clear():
 
 def exit_animation():
     loading_animation('[-_0] - Exiting Program ')
+    clear()
 
 
 def loading_animation(output):
@@ -22,5 +23,5 @@ def loading_animation(output):
     time.sleep(0.5)
     print('.', end='', flush=True)
     time.sleep(0.5)
-    print('.', end='', flush=True)
+    print('.', flush=True)
     time.sleep(1)
