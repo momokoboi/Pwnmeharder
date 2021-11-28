@@ -10,4 +10,4 @@ websites_instances = [
 def process_email(emails):
     for website in websites_instances:
         for email in emails:
-            website.is_pwned(email)
+            print(website.is_pwned(email))

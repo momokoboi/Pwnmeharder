@@ -1,2 +1,5 @@
 # Pwnmeharder
-To be changed
+Prerequisits:
+- python packages
+  - selenium
+  - random-user-agents

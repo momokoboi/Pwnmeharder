@@ -1,0 +1,2 @@
+class NoSuccessError(Exception):
+    pass
